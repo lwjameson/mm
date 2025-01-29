@@ -3,10 +3,10 @@
   "created_at": "2024-12-07T21:56:56.467Z",
   "created_by": "saamturner",
   "title": "The Monster Mash test",
-  "updated_at": "2025-01-29T17:11:24.849Z",
+  "updated_at": "2025-01-29T17:12:09.558Z",
   "updated_by": "saamturner",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }

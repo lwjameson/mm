@@ -35,11 +35,11 @@
   "created_by": "saamturner",
   "title": "Bobby Pickett on American Bandstand (1964)",
   "slug": "bobby-pickett-on-american-bandstand-1964",
-  "updated_at": "2025-01-29T17:23:01.323Z",
+  "updated_at": "2025-02-07T02:24:39.324Z",
   "updated_by": "saamturner",
   "parent": "b5f84379-a1b8-4c45-ae71-915aefb0575d",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "2eb0a261-7f36-444c-a99c-058cd9c41664"
   }

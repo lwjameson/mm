@@ -18,11 +18,37 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Type",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Clint Holmes",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Comments",
+          "category": "Type"
+        },
+        {
+          "tag": "Lyrics",
+          "category": "Type"
+        }
+      ]
     },
     "created_at": "2024-12-07T21:56:56.464Z",
-    "updated_at": "2025-02-07T02:31:30.141Z",
+    "updated_at": "2025-02-07T02:43:22.405Z",
     "generate_pages_site": true
   },
   "is_private": false

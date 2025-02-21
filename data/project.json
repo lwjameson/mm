@@ -18,8 +18,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "leiahnb2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/186652770?v=4",
+        "login_name": "DeztyneeHall06",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186664005?v=4",
         "admin": false
       }
     ],
@@ -62,7 +62,7 @@
       ]
     },
     "created_at": "2024-12-07T21:56:56.464Z",
-    "updated_at": "2025-02-21T17:27:34.399Z",
+    "updated_at": "2025-02-21T17:28:03.870Z",
     "generate_pages_site": true
   },
   "is_private": false

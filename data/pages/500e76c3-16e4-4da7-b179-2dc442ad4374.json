@@ -15,6 +15,40 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "2eb0a261-7f36-444c-a99c-058cd9c41664",
+        "start": 96,
+        "end": 126,
+        "file": "88f1341b-1bf4-4dbc-a6b2-ae9210704069"
+      },
+      "event2": {
+        "uuid": "6a8566ae-8b27-4b40-b9b0-3f2fedadb37f",
+        "start": 120,
+        "end": 150,
+        "file": "20e09384-7fd0-4ce2-9216-b9197c16c081"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Comparison clips - multiple video events + annotations",
@@ -25,6 +59,6 @@
   "slug": "comparison-clips-multiple-video-events-an",
   "created_at": "2025-03-02T19:28:02.093Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-03-02T19:28:02.093Z",
+  "updated_at": "2025-03-02T19:30:36.269Z",
   "updated_by": "leiahnb2"
 }

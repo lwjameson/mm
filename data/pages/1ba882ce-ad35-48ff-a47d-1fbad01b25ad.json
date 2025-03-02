@@ -9,6 +9,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event-comparison",
       "includes": [
         "media",
@@ -17,10 +25,10 @@
         "description"
       ],
       "event1": {
-        "uuid": "07bb2ab3-ef14-437c-9a8a-e71c45ff3f89"
+        "uuid": "2eb0a261-7f36-444c-a99c-058cd9c41664"
       },
       "event2": {
-        "uuid": "4bf6817e-8473-40ed-9470-3802164df68e"
+        "uuid": "6a8566ae-8b27-4b40-b9b0-3f2fedadb37f"
       },
       "children": [
         {
@@ -45,6 +53,6 @@
   "slug": "comparison-clips-multiple-video-events-an",
   "created_at": "2025-03-02T19:15:07.752Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-03-02T19:15:07.752Z",
+  "updated_at": "2025-03-02T19:22:31.676Z",
   "updated_by": "leiahnb2"
 }

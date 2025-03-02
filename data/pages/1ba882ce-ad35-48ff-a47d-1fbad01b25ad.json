@@ -1,0 +1,50 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "07bb2ab3-ef14-437c-9a8a-e71c45ff3f89"
+      },
+      "event2": {
+        "uuid": "4bf6817e-8473-40ed-9470-3802164df68e"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Comparison clips - multiple video events + annotations",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "comparison-clips-multiple-video-events-an",
+  "created_at": "2025-03-02T19:15:07.752Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-03-02T19:15:07.752Z",
+  "updated_by": "leiahnb2"
+}

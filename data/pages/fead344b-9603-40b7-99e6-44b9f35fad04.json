@@ -1,0 +1,45 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "07bb2ab3-ef14-437c-9a8a-e71c45ff3f89",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Single video event  + annotations",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "single-video-event-annotations",
+  "created_at": "2025-03-02T20:03:40.415Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-03-02T20:03:40.415Z",
+  "updated_by": "leiahnb2"
+}

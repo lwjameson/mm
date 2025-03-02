@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Comparison clips - multiple video events + annotations",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "comparison-clips-multiple-video-events-an",
+  "created_at": "2025-03-02T19:28:02.093Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-03-02T19:28:02.093Z",
+  "updated_by": "leiahnb2"
+}

@@ -137,10 +137,6 @@
         },
         {
           "category": "Speaker",
-          "tag": "Simon"
-        },
-        {
-          "category": "Speaker",
           "tag": "Alvin and Theodore"
         },
         {
@@ -214,7 +210,7 @@
       ]
     },
     "created_at": "2024-12-07T21:56:56.464Z",
-    "updated_at": "2025-03-04T23:52:26.189Z",
+    "updated_at": "2025-03-04T23:52:39.521Z",
     "generate_pages_site": true
   },
   "is_private": false

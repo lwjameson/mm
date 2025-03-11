@@ -35,10 +35,10 @@
   "created_by": "saamturner",
   "title": "KVNF 90.9 FM Broadcast (2019)",
   "slug": "kvnf-909-fm-broadcast-2019",
-  "updated_at": "2025-03-11T18:34:01.304Z",
+  "updated_at": "2025-03-11T18:34:23.384Z",
   "updated_by": "Alyssaf-j",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "6a83e864-8540-49ae-994f-d2fb919c39bb"
   }

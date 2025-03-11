@@ -16,7 +16,13 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "absempere",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -192,7 +198,7 @@
       ]
     },
     "created_at": "2024-12-07T21:56:56.464Z",
-    "updated_at": "2025-03-11T16:02:44.895Z",
+    "updated_at": "2025-03-11T16:05:19.278Z",
     "generate_pages_site": true
   },
   "is_private": false

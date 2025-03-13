@@ -1,0 +1,468 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Comparison #1: Origins of Monster Mash ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1,
+        "end": 299,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "event2": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 600,
+        "end": 899,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2:37 - 2:57 -> the host recalls editing a well researched history of Monster Mash, but does not specify which version of the origin story was more credible "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "10:00 - 12:15 -> two conflict accounts on how the song came to be:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "          - Pickett’s bandmate Lenny Capezi came up with the idea after seeing the love from the audience over Pickett’s Karloff impression"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "          - A girl at a beach gig told Pickett her father was a record producer (Gary Paxton), who then helped develop the song"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Question: Which version is more consistently referenced? Did Pickett himself ever confirm which story was accurate? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Comparison #2: Recording Studio Mystery ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1500,
+        "end": 1799,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "event2": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1500,
+        "end": 1799,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "26:53 - 27:35 -> Pickett remembers recording Monster Mash at Conway Recorders, alongside Herb Alpert and other musicians. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "27:35 - 27:56 -> Darlene Love, a backup vocalist for the song, insists it was recorded at Gold Star Studios. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Question: Both sources are credible, yet name different studios. Who do you believe? Could multiple sessions have taken place?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Comparison #3: Horror v. Dance Crazes ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 900,
+        "end": 1199,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "event2": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1200,
+        "end": 1499,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "17:07 - 17:53 -> 1950s and early 1960s monster craze, influenced by Famous Monsters of Filmland, The Addams Family, and Universal horror films "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "23:03 - 23:50 -> Dances, such as “The Mashed Potato,” inspired the song"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Question: Was there more of an influence from horror films or dance crazes on the production of Monster Mash? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Comparison #4: James Brown Connection to the Mashed Potato Dance",
+          "bold": true
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1,
+        "end": 299,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "event2": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1200,
+        "end": 1499,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3:18 - 3:40 -> The host teases a slight connection between James Brown and Monster Mash "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "23:50 - 24:11 -> James Brown’s song Do the Mashed Potatoes was key in the launch of the “Mashed Potatoes” dance, which later inspired the Monster Mash "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Comparison #5: The Song’s Chart Performance and UK Ban",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1800,
+        "end": 2099,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "event2": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 1800,
+        "end": 2099,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "32:23 - 33:47 -> Monster Mash was initially rejected by major labels, but was then self released and climbed to #1 in 1962"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "33:47 - 34:12 -> The BBC banned the song for being “too morbid” until 1973, when it charted at #3 in the UK"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Question: How did a song rejected by many labels become a massive hit? Why was the UK more resistant than the US?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Comparison #6: Boris Karloff vs. Elvis Presley’s Reaction to Monster Mash",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 2100,
+        "end": 2399,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "event2": {
+        "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
+        "start": 2100,
+        "end": 2399,
+        "file": "a1089276-833f-4a6b-87f4-4c81e75e79cf"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "35:21 - 35:44 -> Boris Karloff loved Monster Mash and even performed it at Shindig! In 1965"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "36:05 - 36:26 -> Elvis Presley hated the song and reportedly called it “the stupidest thing” he’d ever heard. "
+        }
+      ]
+    }
+  ],
+  "title": "Comparison clips - single audio event + annotations",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "comparison-clips-single-audio-event-annot",
+  "created_at": "2025-03-13T17:02:14.876Z",
+  "created_by": "DeztyneeHall06",
+  "updated_at": "2025-03-13T17:02:14.876Z",
+  "updated_by": "DeztyneeHall06"
+}

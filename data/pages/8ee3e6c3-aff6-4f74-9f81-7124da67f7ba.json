@@ -1,0 +1,51 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "07bb2ab3-ef14-437c-9a8a-e71c45ff3f89"
+      },
+      "event2": {
+        "uuid": "ec00b232-1a3b-4269-8344-e6bd639c04e1"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "The Misfits cover \"The Monster Mash\" (1998) / ABC for Kids: Monster Mash (1991)",
+  "parent": "4a04ce73-2a91-4bc4-a867-d307067099ec",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-misfits-cover-the-monster-mash-199-2",
+  "created_at": "2025-03-13T01:36:48.018Z",
+  "created_by": "naponigore",
+  "updated_at": "2025-03-13T01:36:48.018Z",
+  "updated_by": "naponigore"
+}

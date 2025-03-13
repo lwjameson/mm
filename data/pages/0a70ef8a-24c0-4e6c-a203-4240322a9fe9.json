@@ -13,7 +13,6 @@
       "uuid": "4bf6817e-8473-40ed-9470-3802164df68e",
       "includes": [
         "media",
-        "annotations",
         "label",
         "description"
       ],
@@ -188,7 +187,6 @@
       "uuid": "ec00b232-1a3b-4269-8344-e6bd639c04e1",
       "includes": [
         "media",
-        "annotations",
         "label",
         "description"
       ],
@@ -251,6 +249,6 @@
   "slug": "custom-page-with-images-events-no-annota",
   "created_at": "2025-02-24T18:46:34.702Z",
   "created_by": "saamturner",
-  "updated_at": "2025-03-13T16:29:23.269Z",
+  "updated_at": "2025-03-13T16:44:07.116Z",
   "updated_by": "DeztyneeHall06"
 }

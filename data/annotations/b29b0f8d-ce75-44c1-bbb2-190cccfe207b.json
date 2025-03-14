@@ -1,1 +1,1283 @@
-{"annotations":[],"set":"Default","event_id":"2eb0a261-7f36-444c-a99c-058cd9c41664","source_id":"88f1341b-1bf4-4dbc-a6b2-ae9210704069"}
+{
+  "annotations": [
+    {
+      "start_time": 63,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was working in the lab late one night"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 1"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "42e457db-a516-4124-a09b-e4c2fefa7a5e"
+    },
+    {
+      "start_time": 68,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When my eyes beheld an eerie sight"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 1"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8f62c586-4ed9-4af4-8536-343499e97467"
+    },
+    {
+      "start_time": 71,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For my monster, from his slab, began to rise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 1"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e4d8fcfc-775f-447e-bf66-adc873d13eb8"
+    },
+    {
+      "start_time": 75,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And suddenly, to my surprise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 1"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bd291f61-75ba-47b8-a2d0-6880bb0e2971"
+    },
+    {
+      "start_time": 78,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He did the Monster Mash (the Monster Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4a35b5d9-fa5d-44fb-9aa3-5e839b018e12"
+    },
+    {
+      "start_time": 83,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a graveyard smash (he did the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ceb98341-051d-44fa-a28a-b34a945cf8a3"
+    },
+    {
+      "start_time": 86,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It caught on in a flash (he did the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "842dd5df-cb9e-42b9-88a7-5d5141d64aff"
+    },
+    {
+      "start_time": 90,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He did the Monster Mash"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b7d6b416-090b-4c85-bf02-7b30360ea2ff"
+    },
+    {
+      "start_time": 92,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From my laboratory in the Castle east"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 2"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "845e94e0-91a2-4b2b-8556-6525e6f5556c"
+    },
+    {
+      "start_time": 95,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To the master bedroom, where the vampires feast"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 2"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "30260b56-e213-407f-bbfe-46ad364dcd47"
+    },
+    {
+      "start_time": 98,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The ghouls all came from their humble adobes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 2"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c88c02a2-a8ee-491d-bb79-79f0b6378501"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get a jolt from my electrodes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 2"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dc36a3c0-33d6-49a2-a140-3fd56f91ba7f"
+    },
+    {
+      "start_time": 105,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They did the Monster Mash (the Monster Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "71a20f5c-f549-4177-b653-341e5299370e"
+    },
+    {
+      "start_time": 110,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a graveyard smash (they did the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f7f4ebc2-7d73-42a5-9d79-cce7598547ab"
+    },
+    {
+      "start_time": 113,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It caught on in a flash (they did the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "05ddb941-ff65-4293-9c7c-6f5a2c525773"
+    },
+    {
+      "start_time": 116,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They did the Monster Mash"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1aa364ee-b8b9-4546-afa8-e543a5806782"
+    },
+    {
+      "start_time": 120,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The zombies were having fun"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bridge"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bf40c144-e086-4e3d-889b-22813878acfb"
+    },
+    {
+      "start_time": 123,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The party had just begun"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bridge"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "113437bb-7c3b-4758-9256-19824aa9a01c"
+    },
+    {
+      "start_time": 126,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The guests included Wold-Man, Dracula, and his son"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bridge"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a7def811-e661-4714-8e3f-3f242b0a266e"
+    },
+    {
+      "start_time": 132,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scene was rocking, all were digging the sounds"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 3"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b923b30d-1f88-4e1c-b196-04c7c740c46b"
+    },
+    {
+      "start_time": 136,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Igor on chains, backed by his baying hounds"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 3"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f91d8244-e3a2-44b5-a8de-7d55ff6ecf1d"
+    },
+    {
+      "start_time": 139,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The coffin-bangers were about to arrive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 3"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fd17284e-d333-4573-9927-7923e9489c97"
+    },
+    {
+      "start_time": 142,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With their vocal group, The Crypt-Kicker Five"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 3"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "be722d7c-6e96-42fd-bf7d-35b6ee707953"
+    },
+    {
+      "start_time": 147,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They played the Monster Mash (the Monster Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "818f2617-890d-4b88-a924-6792d15c4f5a"
+    },
+    {
+      "start_time": 151,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a graveyard smash (they played the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "91ee7d56-7c08-46ab-a2f9-8995dcd441df"
+    },
+    {
+      "start_time": 155,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It caught on in a flash (they played the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "447b1bca-1c5a-492c-87f3-a85d6fbd83d9"
+    },
+    {
+      "start_time": 158,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They played the Monster Mash"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3216f97d-441d-43f6-8d26-31fd36dcb7a2"
+    },
+    {
+      "start_time": 160,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Out from his coffin, Drac's voice did ring"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 4"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "22b034e0-3aee-4b81-9d59-d79dc9226fce"
+    },
+    {
+      "start_time": 164,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seems he was troubled by just one thing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 4"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "579cbceb-702d-4a9d-a438-0349eee8208e"
+    },
+    {
+      "start_time": 167,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opened the lid and shook his fist and said, \"Whatever happened to my Transylvania Twist?\"        "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 4"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e08f4e52-37da-418a-b718-7aadb7e7187d"
+    },
+    {
+      "start_time": 174,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's now the Monster Mash (the Monster Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dd07850c-1ab0-4e49-813a-183c773cd9a7"
+    },
+    {
+      "start_time": 178,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's a graveyard smash (it's now the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "74685147-cf89-4ad8-9dd1-0111293360b8"
+    },
+    {
+      "start_time": 182,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's caught on in flash (it's now the Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "942d30db-987f-49f7-b7dc-616424d2cd1a"
+    },
+    {
+      "start_time": 185,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's now the Monster Mash "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9db8ee69-790d-4267-98d5-a615cecf057e"
+    },
+    {
+      "start_time": 187,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now everything's cool, Drac's a part of the band"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 5"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "288f7dc3-3cc1-4d92-b977-c6ed9b37ec0e"
+    },
+    {
+      "start_time": 191,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And my Monster Mash is the hit of the land"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 5"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "14fd4d8a-ddaa-442c-9e0f-db586480c675"
+    },
+    {
+      "start_time": 194,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For you, the living, this Mash was meant too"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 5"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4fa23a5c-fd1a-4c16-ad45-30efbe397803"
+    },
+    {
+      "start_time": 198,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you get to my door, tell them Boris sent you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Verse 5"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dbac0eb9-8c0b-4412-97ad-e0464f6198a0"
+    },
+    {
+      "start_time": 202,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then you can Monster Mash (the Monster Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d562630a-f0d8-4ba8-8cbe-8368f62550be"
+    },
+    {
+      "start_time": 205,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And do my graveyard smash (then you can Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "574571ba-6159-46f5-89d3-1abf95105dfc"
+    },
+    {
+      "start_time": 209,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You'll catch on in a flash (then you can Mash)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2ca2f11f-a3c0-46ed-9640-860912af05c9"
+    },
+    {
+      "start_time": 212,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then you can Monster Mash"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Chorus"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "21d8f0e8-6199-4d39-8504-f3b04121bb44"
+    },
+    {
+      "start_time": 216,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mash good!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Outro"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c5c53c72-ed68-42fb-9f0c-6f6d6cea865e"
+    },
+    {
+      "start_time": 218,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Easy, Igor, you impetuous, young boy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Outro"
+        },
+        {
+          "category": "Form",
+          "tag": "Lyrics"
+        },
+        {
+          "tag": "Bobby Pickett",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ec4190de-4643-4b0a-8617-dafe2ee275e5"
+    }
+  ],
+  "set": "Default",
+  "event_id": "2eb0a261-7f36-444c-a99c-058cd9c41664",
+  "source_id": "88f1341b-1bf4-4dbc-a6b2-ae9210704069"
+}

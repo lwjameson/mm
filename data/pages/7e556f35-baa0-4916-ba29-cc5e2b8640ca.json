@@ -481,6 +481,34 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "07bb2ab3-ef14-437c-9a8a-e71c45ff3f89"
+      },
+      "event2": {
+        "uuid": "2eb0a261-7f36-444c-a99c-058cd9c41664"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Comparison clips - single audio event + annotations",
@@ -491,6 +519,6 @@
   "slug": "comparison-clips-single-audio-event-annot",
   "created_at": "2025-03-13T17:02:14.876Z",
   "created_by": "DeztyneeHall06",
-  "updated_at": "2025-03-28T05:39:21.273Z",
+  "updated_at": "2025-03-28T05:40:23.575Z",
   "updated_by": "naponigore"
 }

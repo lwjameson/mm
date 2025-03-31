@@ -81,10 +81,10 @@
   "created_at": "2024-12-07T21:56:56.467Z",
   "created_by": "saamturner",
   "title": "The Monster Mash - Project Introduction",
-  "updated_at": "2025-03-31T17:11:40.030Z",
+  "updated_at": "2025-03-31T17:27:59.495Z",
   "updated_by": "Alyssaf-j",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   },
   "slug": "the-monster-mash-project-introduction"

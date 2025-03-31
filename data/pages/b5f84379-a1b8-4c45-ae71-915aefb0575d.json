@@ -1,9 +1,42 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Citations:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Knopper, Steve. “How Much Is 'Monster Mash' Worth?”. Billboard, October 31, 2023. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Monster Mash by Bobby ‘Boris’ Pickett & the Crypt-Kickers”. songfacts.com. Song Facts, LLC."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vitagliano, Joe. \"Behind The Song: “‘Monster Mash,’ Bobby ‘Boris’ Pickett and the Crypt-Kickers”. American Songwriter, October 29, 2021."
+        }
+      ]
+    }
+  ],
   "created_at": "2024-12-07T21:56:56.467Z",
   "created_by": "saamturner",
   "title": "The Monster Mash - Project Introduction",
-  "updated_at": "2025-03-31T15:55:48.875Z",
+  "updated_at": "2025-03-31T17:01:43.663Z",
   "updated_by": "Alyssaf-j",
   "autogenerate": {
     "enabled": false,

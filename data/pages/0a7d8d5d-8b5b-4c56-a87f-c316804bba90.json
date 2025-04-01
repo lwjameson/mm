@@ -9,6 +9,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "68af6287-8d93-48dc-b0b4-e9e284a92c69",
       "includes": [
@@ -145,6 +153,6 @@
   "slug": "custom-page-with-images-events-annotati",
   "created_at": "2025-03-02T19:45:36.490Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-04-01T20:58:24.793Z",
+  "updated_at": "2025-04-01T21:17:56.461Z",
   "updated_by": "leiahnb2"
 }

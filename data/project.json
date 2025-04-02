@@ -4,9 +4,56 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "absempere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "Alyssaf-j",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181769394?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "naponigore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186634111?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "leiahnb2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186652770?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "DeztyneeHall06",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186664005?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "mbruegger5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174411407?v=4",
+      "admin": false,
+      "not_accepted": true
+    }
+  ],
   "project": {
-    "github_org": "saamturner",
+    "github_org": "AVAnnotate",
     "is_private": false,
     "title": "The Monster Mash - Documentation Project",
     "description": "This project contains audio and video events related to Bobby Pickett's 1962 Halloween hit, \"The Monster Mash,\" and can be used to understand the variety of AVAnnotate features available for project authors. ",

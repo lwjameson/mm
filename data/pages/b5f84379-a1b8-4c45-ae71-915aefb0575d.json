@@ -25,6 +25,41 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://www.udiscovermusic.com/wp-content/uploads/2022/10/monster-3000DPI300RGB1000167619-820x820.jpg",
+      "size": "large",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -81,8 +116,8 @@
   "created_at": "2024-12-07T21:56:56.467Z",
   "created_by": "saamturner",
   "title": "The Monster Mash - Project Introduction",
-  "updated_at": "2025-03-31T17:28:10.606Z",
-  "updated_by": "Alyssaf-j",
+  "updated_at": "2025-04-05T23:48:11.051Z",
+  "updated_by": "leiahnb2",
   "autogenerate": {
     "enabled": false,
     "type": "home"

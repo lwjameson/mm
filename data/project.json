@@ -44,10 +44,16 @@
       "login_name": "DeztyneeHall06",
       "avatar_url": "https://avatars.githubusercontent.com/u/186664005?v=4",
       "admin": false
+    },
+    {
+      "login_name": "mbruegger5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174411407?v=4",
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
-    "github_org": "saamturner",
+    "github_org": "AVAnnotate",
     "is_private": false,
     "title": "The Monster Mash - Documentation Project",
     "description": "This project contains audio and video events related to Bobby Pickett's 1962 Halloween hit, \"The Monster Mash,\" and can be used to understand the variety of AVAnnotate features available for project authors. ",

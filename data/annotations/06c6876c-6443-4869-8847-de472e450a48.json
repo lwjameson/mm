@@ -1,1 +1,32 @@
-{"annotations":[],"set":"Default","event_id":"3183b994-d5ac-43fc-97a5-fab468920122","source_id":"53de034b-e3df-4016-b95f-6b25da7b6b60"}
+{
+  "annotations": [
+    {
+      "start_time": 103,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host, Steve Greenberg, gives a pop quiz with three hints stating the cultural significance, references, and chart success. Explains how Monster Mash became a cultural staple."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Steve Greenberg"
+        }
+      ],
+      "uuid": "710c133e-c3bb-4344-9a4f-b1117d9f0d72"
+    }
+  ],
+  "set": "Default",
+  "event_id": "3183b994-d5ac-43fc-97a5-fab468920122",
+  "source_id": "53de034b-e3df-4016-b95f-6b25da7b6b60"
+}

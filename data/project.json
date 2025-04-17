@@ -53,13 +53,13 @@
     }
   ],
   "project": {
-    "github_org": "AVAnnotate",
+    "github_org": "lwjameson",
     "is_private": false,
     "title": "The Monster Mash - Documentation Project",
     "description": "This project contains audio and video events related to Bobby Pickett's 1962 Halloween hit, \"The Monster Mash,\" and can be used to understand the variety of AVAnnotate features available for project authors. ",
     "language": "en",
     "slug": "mm",
-    "creator": "saamturner",
+    "creator": "lwjameson",
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,

@@ -14,7 +14,7 @@
   "project": {
     "github_org": "lwjameson",
     "is_private": false,
-    "title": "The Monster Mash - Documentation Project",
+    "title": "The Monster Mash (Lorin)",
     "description": "This project contains audio and video events related to Bobby Pickett's 1962 Halloween hit, \"The Monster Mash,\" and can be used to understand the variety of AVAnnotate features available for project authors. ",
     "language": "en",
     "slug": "mm",
@@ -24,8 +24,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "mbruegger5",
-        "avatar_url": "https://avatars.githubusercontent.com/u/174411407?v=4",
+        "login_name": "SteveMarvin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
         "admin": false
       }
     ],
@@ -208,8 +208,8 @@
       ]
     },
     "created_at": "2024-12-07T21:56:56.464Z",
-    "updated_at": "2025-04-17T17:07:14.458Z",
-    "generate_pages_site": false
+    "updated_at": "2025-04-17T18:15:09.247Z",
+    "generate_pages_site": true
   },
   "is_private": false,
   "annotations": {

@@ -24,6 +24,31 @@
         }
       ],
       "uuid": "710c133e-c3bb-4344-9a4f-b1117d9f0d72"
+    },
+    {
+      "start_time": 155,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steve explains how in the early 1960s, there was a monster movie phenomenon inspired by the 1930s and 1940s. During the Silent film era, Universal created Frankenstein, Dracula, The Wolfman, The Mummy, and many much more. The first non-silent monster film was Frankenstein with Boris Karloff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Steve Greenberg"
+        },
+        {
+          "category": "Context",
+          "tag": "Horror Culture"
+        }
+      ],
+      "uuid": "924bb898-1acd-42ea-a247-ee4cf82b6dde"
     }
   ],
   "set": "Default",
